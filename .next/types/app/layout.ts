@@ -1,4 +1,4 @@
-// File: C:\Users\Alexandre\Desktop\Teste - Ana\bookshelf\src\app\layout.tsx
+// File: F:\GitHUB\BookShelf\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
